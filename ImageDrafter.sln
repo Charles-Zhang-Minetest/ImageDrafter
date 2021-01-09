@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDrafter", "ImageDrafter.csproj", "{EEF850D4-96C5-4135-87D1-C28532333CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF850D4-96C5-4135-87D1-C28532333CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF850D4-96C5-4135-87D1-C28532333CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF850D4-96C5-4135-87D1-C28532333CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF850D4-96C5-4135-87D1-C28532333CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1F12A71-3FCF-4014-8E59-ABE34A5DD31A}
+	EndGlobalSection
+EndGlobal
